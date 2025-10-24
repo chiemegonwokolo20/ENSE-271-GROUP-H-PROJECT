@@ -5,4 +5,5 @@ This folder contains the following documents
 3. Updated user story mapping (pdf)
 4. Formative usability questionnaire of specific user tasks (pdf)
 5. Formative usability questionnaire of open-ended/ general questions (pdf)
-6. Summarized insights from usability evaluations (pdf)  
+6. Summarized insights from usability evaluations (pdf)
+7. Audio recording from usability test Timothy (m4a)
