@@ -1,2 +1,2 @@
-# Activity 1 (Low fedelity Prototype exploration) readme file
+# Activity 1 (Low fidelity Prototype exploration) readme file
 
